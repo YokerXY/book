@@ -2,67 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b2461e2-613c-4c56-b17a-1a0143692189" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../collection-study/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/list/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/map/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/map/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/map/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/collection-study/src/com/soft1841/set/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/list/ListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/map/HashMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/map/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/map/StudentTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/set/SetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collection-study/out/production/collection/com/soft1841/set/TreeSetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E/my_file/helloWorld.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/DateTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/FileCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/FileDome1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/FileTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/ImageFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/ReaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/io-study/com/soft1841/io/TestCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/FileDome1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/FileTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/ImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/OutputEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/ReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/ScannerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/TestCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/soft1841/io/TxtReaderFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-advanced" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/javaqq/javaqq.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/javaqq/src/opp/Hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaStudy2/out/production/javaqq/opp/Hi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaoo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likejava" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/swing-xy/src/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/swing-xy/src/jar/beautyeye_lnf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/swing-xy/src/swing/study/BoxLayoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/swing-xy/src/swing/study/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-example1/swing-xy/swing-xy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swing-study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/AdminDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/AdminDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/ReaderDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/StudentFrameDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/TypeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/ReaderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/StudentFrameDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/TypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/ReaderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/StuLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/factory/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminLoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/RegisteredFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/RegisteredFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/ReaderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/StudentFrameServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/TypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/ReaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/StudentFrameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/TypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/ui/ImgPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/ResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/img/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/jar/datepicker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/AdminDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/ReaderDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/StudentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/StudentFrameDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/TypeDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/AdminServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/ReaderServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/StudentFrameServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/StudentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/TypeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-study/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-study/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/artifacts/juhe_api_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/Carouse11Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/DreamApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/AdminDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/CClassDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/AdminDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/CClassDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/CClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/ResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentPunishments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/factory/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminInsertFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminInsertFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminLoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/CClassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/CClassServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/ui/ImgPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/1111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/1213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/mima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/rr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/zhanghao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/加.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/jar/datepicker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/AdminDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/CClassDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/StudentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/AdminServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/CClassServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/DepartmentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/StudentServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection-study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-advanced" beforeDir="false" afterPath="$PROJECT_DIR$/../java-advanced" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaoo" beforeDir="false" afterPath="$PROJECT_DIR$/../javaoo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Dream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Dream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/JuHeApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/JuHeApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likejava" beforeDir="false" afterPath="$PROJECT_DIR$/../likejava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swing-study/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,20 +179,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TxtReaderFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1526#1527#0" expanded="true" />
-                <element signature="e#1563#1564#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TestCopy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
@@ -96,11 +187,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ImageFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="182">
+              <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileDome1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/DateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,7 +259,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ScannerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="260">
               <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -123,7 +271,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="130">
               <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,10 +280,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/OutputEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
+            <state relative-caret-position="364">
               <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
@@ -194,6 +342,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,7 +366,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,15 +495,17 @@
       <workItem from="1554164929031" duration="1833000" />
       <workItem from="1554169984717" duration="1814000" />
       <workItem from="1554242359507" duration="19000" />
+      <workItem from="1560824565518" duration="21000" />
+      <workItem from="1560825068188" duration="297000" />
+      <workItem from="1560826161395" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30661000" />
+    <option name="totallyTimeSpent" value="30988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -363,7 +513,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24818109" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.16572352" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3283859" />
@@ -400,6 +550,25 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/JFileChooserTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TxtReaderFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TestCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -427,6 +596,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -437,48 +616,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/FileCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TxtReaderFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#1563#1564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/TestCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ScannerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="260">
           <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -488,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="130">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -498,8 +638,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/OutputEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
+        <state relative-caret-position="364">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/soft1841/io/ImageFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

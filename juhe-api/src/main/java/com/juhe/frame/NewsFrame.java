@@ -24,6 +24,7 @@ public class NewsFrame {
 
 
     public NewsFrame() {
+
         CardLayout cardLayout = new CardLayout();
         centerPanel.setLayout(cardLayout);
         //将三张卡加入主容器，并且指定名称

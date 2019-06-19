@@ -1,7 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f03aa812-bc1b-4540-bddc-964071d1bbaa" name="Default Changelist" comment="" />
+    <list default="true" id="f03aa812-bc1b-4540-bddc-964071d1bbaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/AdminDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/AdminDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/ReaderDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/StudentFrameDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/Impl/TypeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/ReaderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/StudentFrameDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/dao/TypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/ReaderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/StuLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/entity/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/factory/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminLoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/AdminMainFrame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/RegisteredFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/frame/RegisteredFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/ReaderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/StudentFrameServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/Impl/TypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/ReaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/StudentFrameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/service/TypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/ui/ImgPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/java/com/sm/utils/ResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/img/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/main/resources/jar/datepicker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/AdminDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/ReaderDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/StudentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/StudentFrameDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/dao/Impl/TypeDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/AdminServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/ReaderServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/StudentFrameServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/StudentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-manage/src/test/java/com/sm/service/Impl/TypeServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-study/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-study/jdbc-study/src/main/java/com/soft1841/jdbc/JDBCDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/.idea/artifacts/juhe_api_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/Carouse11Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/DreamApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juhe-api/src/main/resources/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/AdminDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/CClassDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/DepartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/AdminDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/CClassDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/DepartmentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/dao/impl/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/CClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/ResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentPunishments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/entity/StudentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/factory/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/factory/ServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminInsertFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminInsertFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminLoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/frame/AdminMainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/CClassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/CClassServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/Impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/ui/ImgPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/AliOSSUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/java/com/sm/utils/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/1111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/1213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/mima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/rr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/zhanghao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/img/加.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/main/resources/jar/datepicker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/AdminDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/CClassDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/DepartmentImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/dao/impl/StudentDAOImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/AdminServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/CClassServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/DepartmentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-manage/src/test/java/com/sm/service/Impl/StudentServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../io-study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-advanced" beforeDir="false" afterPath="$PROJECT_DIR$/../java-advanced" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaoo" beforeDir="false" afterPath="$PROJECT_DIR$/../javaoo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Dream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/entity/Dream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/DreamFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/frame/NewsFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/JuHeApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juhe-api/src/main/java/com/juhe/sevice/JuHeApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likejava" beforeDir="false" afterPath="$PROJECT_DIR$/../likejava" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,10 +175,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/map/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
+            <state relative-caret-position="437">
               <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
             </state>
           </provider>
@@ -46,11 +211,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/set/TreeSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -75,6 +240,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,11 +271,13 @@
     <option name="width" value="1257" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,11 +296,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="soft1841" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="collection-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collection-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -261,23 +437,24 @@
       <workItem from="1553036751762" duration="62000" />
       <workItem from="1553170726022" duration="345000" />
       <workItem from="1553498656925" duration="485000" />
+      <workItem from="1560826090916" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9320000" />
+    <option name="totallyTimeSpent" value="9325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25141472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25545675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45740741" />
@@ -285,12 +462,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,19 +477,13 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/map/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/map/StudentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -347,7 +518,14 @@
     <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/set/TreeSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection-study/src/com/soft1841/map/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>

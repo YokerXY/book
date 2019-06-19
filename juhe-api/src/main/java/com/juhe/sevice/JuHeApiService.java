@@ -22,7 +22,6 @@ public class JuHeApiService {
     public static List<News> getNews(String type) {
         List<News> newsList = new ArrayList<>();
         HttpClient client = new HttpClient();
-        // 请求的uri，服务器返回的将是JSON数据
         GetMethod method = new GetMethod("http://v.juhe.cn/toutiao/index?type=" + type + "&key=b290875594a3a5bf90cd9212354beac3");
         int code;
         String data = "";
