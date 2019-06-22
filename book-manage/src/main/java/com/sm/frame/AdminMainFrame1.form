@@ -59,30 +59,6 @@
               <text value="图书管理"/>
             </properties>
           </component>
-          <component id="1c929" class="javax.swing.JButton" binding="accountbutton3">
-            <constraints>
-              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
-            </constraints>
-            <properties>
-              <background color="-5588039"/>
-              <font size="48"/>
-              <foreground color="-12583004"/>
-              <inheritsPopupMenu value="true"/>
-              <label value="借阅管理"/>
-              <text value="借阅管理"/>
-            </properties>
-          </component>
-          <component id="9a835" class="javax.swing.JButton" binding="系统设置Button" default-binding="true">
-            <constraints>
-              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
-            </constraints>
-            <properties>
-              <background color="-5588039"/>
-              <font size="48"/>
-              <foreground color="-12583004"/>
-              <text value="系统设置"/>
-            </properties>
-          </component>
           <vspacer id="8d0">
             <constraints>
               <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
@@ -114,6 +90,30 @@
               <inheritsPopupMenu value="true"/>
               <label value="账号注册"/>
               <text value="账号注册"/>
+            </properties>
+          </component>
+          <component id="1c929" class="javax.swing.JButton" binding="accountbutton3">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-5588039"/>
+              <font size="48"/>
+              <foreground color="-12583004"/>
+              <inheritsPopupMenu value="true"/>
+              <label value="借阅管理"/>
+              <text value="借阅管理"/>
+            </properties>
+          </component>
+          <component id="9a835" class="javax.swing.JButton" binding="系统设置Button" default-binding="true">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-5588039"/>
+              <font size="48"/>
+              <foreground color="-12583004"/>
+              <text value="系统设置"/>
             </properties>
           </component>
         </children>
